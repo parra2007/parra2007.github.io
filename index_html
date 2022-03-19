@@ -1,12 +1,18 @@
-<html>.
-<head>.
-    <title> Santo Domingo </title>">
-</head>.
-<body>.
-    <h1> Hola Mundo </h1>.
+<html>
+<head>
+    <title>Santo Domingo</title>
+</head>
+<body>
+    <h1> Hola Mundo </h1>
+    <style>
+        body{background-image: url(https://ssl.sitew.org/images/blog/articles/fonds/e6.jpg)}
+            h1{color:blue}
+            p{color:black;}
+        </style>
     <img src="img/1900x920-8-beneficios-de-usar-imagenes-en-nuestros-sitios-web.jpg">
     <iframe width="713" height="401" src="https://www.youtube.com/embed/XclAZleD0Lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<footer> .
-    <p> Los integrantes son... Juan leon, Danna Sarmiento, Brianna Ulloa, Josselin Parra</p>.
-</footer>.
-</html>.
+<footer> 
+    <p> Los integrantes son... Juan leon, Danna Sarmiento, Brianna Ulloa, Josselin Parra</p>
+    <p> Muchas Gracias </p>
+</footer>
+</html>
