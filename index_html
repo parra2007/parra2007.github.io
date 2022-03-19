@@ -4,7 +4,8 @@
 </head>.
 <body>.
     <h1> Hola Mundo </h1>.
-</body>.
+    <img src="img/1900x920-8-beneficios-de-usar-imagenes-en-nuestros-sitios-web.jpg">
+    <iframe width="713" height="401" src="https://www.youtube.com/embed/XclAZleD0Lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <footer> .
     <p> Los integrantes son... Juan leon, Danna Sarmiento, Brianna Ulloa, Josselin Parra</p>.
 </footer>.
